@@ -2,4 +2,4 @@
 Trabalho da curso de TADS referente ao 5º semenstre - PROINTER.
 
 API
-https://prointer.elihon.solutions/api/
+https://prointer.elihon.solutions/api/alunos
