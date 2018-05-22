@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{FC09F57D-9486-4E89-A78B-E9632F67790D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prointer.Services.API", "src\Prointer.Services.API\Prointer.Services.API.csproj", "{8869F626-5140-430B-B813-67DAD403858B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7B587E1E-F7DE-4912-9B54-2C41429CF01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8869F626-5140-430B-B813-67DAD403858B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8869F626-5140-430B-B813-67DAD403858B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8869F626-5140-430B-B813-67DAD403858B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8869F626-5140-430B-B813-67DAD403858B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8869F626-5140-430B-B813-67DAD403858B} = {FC09F57D-9486-4E89-A78B-E9632F67790D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA78F314-BB1E-4ED7-A9BD-2ACE41D5657A}
+	EndGlobalSection
+EndGlobal

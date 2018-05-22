@@ -1,0 +1,11 @@
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\bin\Debug\netcoreapp2.0\Prointer.Services.API.deps.json
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\bin\Debug\netcoreapp2.0\Prointer.Services.API.runtimeconfig.json
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\bin\Debug\netcoreapp2.0\Prointer.Services.API.runtimeconfig.dev.json
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\bin\Debug\netcoreapp2.0\Prointer.Services.API.dll
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\bin\Debug\netcoreapp2.0\Prointer.Services.API.pdb
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\obj\Debug\netcoreapp2.0\Prointer.Services.API.csproj.CoreCompileInputs.cache
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\obj\Debug\netcoreapp2.0\Prointer.Services.API.AssemblyInfoInputs.cache
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\obj\Debug\netcoreapp2.0\Prointer.Services.API.AssemblyInfo.cs
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\obj\Debug\netcoreapp2.0\Prointer.Services.API.dll
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\obj\Debug\netcoreapp2.0\Prointer.Services.API.pdb
+E:\PROJECTS\ASP_NET\PROINTER_API\src\Prointer.Services.API\obj\Debug\netcoreapp2.0\Prointer.Services.API.csprojAssemblyReference.cache
